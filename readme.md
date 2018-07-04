@@ -1,13 +1,11 @@
-# Getting Started
+# Azure Machine Learning Package For Computer Vision
 
-Welcome to your new Azure Machine Learning Project.
+Azure Machine Learning Package for Computer Vision (AMLPCV) is a Python extension for Azure Machine Learning. With this package, you can quickly build and deploy highly accurate machine learning and deep learning computer vision models. 
 
-For more information go to <http://aka.ms/AzureMLGettingStarted>
+The AMLPCV package supports the following scenarios:
 
-Configure your favorite IDE and open this project using the **File menu**.
+    Image classification
+    Object detection
+    Image similarity
 
-Add and prepare data sources using the **Data** tab.
-
-Add and explore notebooks using the **Notebook** tab.
-
-Explore past runs and access project outputs using the **Run History** tab.
+For more information about each module and class in this package, see the [package reference pages](https://docs.microsoft.com/en-us/python/api/cvtk?view=azure-ml-py-latest). 
