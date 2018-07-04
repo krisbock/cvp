@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>Annotation</folder>
+   <filename>neg1</filename>
+   <path>/neg1.jpg</path>
+   <size>
+      <width>640</width>
+      <height>426</height>
+      <depth>3</depth>
+   </size>
+</annotation>
